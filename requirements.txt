@@ -3,7 +3,7 @@ torch>=2.0
 torchvision
 
 # Image processing
-opencv-python
+opencv-python-headless
 Pillow
 numpy
 

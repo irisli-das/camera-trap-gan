@@ -1,0 +1,28 @@
+# data and outputs — never commit
+data/
+outputs/
+das_birds/
+
+# model files — too large for GitHub
+*.pth
+
+# video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.MP4
+
+# Mac system files
+.DS_Store
+.DS_Store?
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# environments
+.venv/
+*.egg-info/

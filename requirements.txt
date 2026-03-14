@@ -1,0 +1,27 @@
+# Core deep learning
+torch>=2.0
+torchvision
+
+# Image processing
+opencv-python
+Pillow
+numpy
+
+# Data handling
+pandas
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
+
+# Experiment tracking
+wandb
+
+# Notebook support
+jupyterlab
+ipykernel
+
+# Utilities
+tqdm
+requests
